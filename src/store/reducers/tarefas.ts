@@ -13,14 +13,14 @@ const initialState: TarefasState = {
       descricao: 'Estudar JavaScript revendo orientação a objetos',
       prioridade: enums.Prioridade.NORMAL,
       status: enums.Status.PENDENTE,
-      titulo: 'Estudar Java Script'
+      titulo: 'Estudar JavaScript'
     },
     {
       id: 2,
       descricao: 'Estudar TypeScript revendo orientação a objetos',
       prioridade: enums.Prioridade.URGENTE,
       status: enums.Status.CONCLUIDA,
-      titulo: 'Estudar Type Script'
+      titulo: 'Estudar TypeScript'
     },
     {
       id: 3,
